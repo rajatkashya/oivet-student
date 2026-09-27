@@ -19,4 +19,4 @@ Deploy:
 3. Add Worker secret `ADMIN_PASSWORD`.
 4. Run schema.sql in D1 if the tables are not already present.
 5. Open /admin.html and log in.
-6. Save Website Settings first, then add student records.
+6. Save Website Settings first, then add student records
