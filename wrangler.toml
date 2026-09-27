@@ -6,3 +6,8 @@ compatibility_date = "2026-09-25"
 directory = "./public"
 binding = "ASSETS"
 run_worker_first = ["/api/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "oivet-students"
+database_id = "74379e86-dcf5-4696-9f99-8e363ce466d4"
